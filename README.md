@@ -13,5 +13,5 @@ going out with friends or watch TV series.
 <img align="left" src="https://github.com/Amethyst69/Amethyst69/blob/main/javascript.png" width="40" alt="JavaScript" />
 <img align="left" src="https://github.com/Amethyst69/Amethyst69/blob/main/rust.png" width="40" alt="Rust" /><br>
 
-### Contact me
+### Contact me 📫
 - Discord: Amethyst#9861
