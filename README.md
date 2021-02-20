@@ -8,12 +8,14 @@ going out with friends or watch TV series.
 - 🔨 Fixing bugs is my point of strength (Also patience 😁).
 - 🌱 I’m currently learning JavaScript and Rust.
 - ⚡ Languages that I can speak: Italian, Spanish, Romanian, English and Portuguese.
-
+<br>
+<br>
 - ## Main Languages 💻
 <img align="left" src="https://github.com/Amethyst69/Amethyst69/blob/main/python.png" width="40" alt="Python" />
 <img align="left" src="https://github.com/Amethyst69/Amethyst69/blob/main/csharp.png" width="40" alt="C#" />
 <img align="left" src="https://github.com/Amethyst69/Amethyst69/blob/main/javascript.png" width="40" alt="JavaScript" />
 <img align="left" src="https://github.com/Amethyst69/Amethyst69/blob/main/rust.png" width="40" alt="Rust" />
-
+<br>
+<br>
 ## 📫 Contacts
-<b>Discord</b>: Amethyst#9861
+Discord: Amethyst#9861
